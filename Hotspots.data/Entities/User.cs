@@ -21,8 +21,5 @@ namespace Hotspots.data.Entities
 
         [Required]
         public string Role {get; set;}
-
-        
-
     }
 }
