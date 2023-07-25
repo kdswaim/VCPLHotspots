@@ -3,3 +3,10 @@
 /Users/vcplmac9/VCPLHotspots/Hotspots.data/obj/Debug/net7.0/Hotspots.data.AssemblyInfoInputs.cache
 /Users/vcplmac9/VCPLHotspots/Hotspots.data/obj/Debug/net7.0/Hotspots.data.AssemblyInfo.cs
 /Users/vcplmac9/VCPLHotspots/Hotspots.data/obj/Debug/net7.0/Hotspots.data.csproj.CoreCompileInputs.cache
+/Users/vcplmac9/VCPLHotspots/Hotspots.data/bin/Debug/net7.0/Hotspots.data.deps.json
+/Users/vcplmac9/VCPLHotspots/Hotspots.data/bin/Debug/net7.0/Hotspots.data.dll
+/Users/vcplmac9/VCPLHotspots/Hotspots.data/bin/Debug/net7.0/Hotspots.data.pdb
+/Users/vcplmac9/VCPLHotspots/Hotspots.data/obj/Debug/net7.0/Hotspots.data.dll
+/Users/vcplmac9/VCPLHotspots/Hotspots.data/obj/Debug/net7.0/refint/Hotspots.data.dll
+/Users/vcplmac9/VCPLHotspots/Hotspots.data/obj/Debug/net7.0/Hotspots.data.pdb
+/Users/vcplmac9/VCPLHotspots/Hotspots.data/obj/Debug/net7.0/ref/Hotspots.data.dll

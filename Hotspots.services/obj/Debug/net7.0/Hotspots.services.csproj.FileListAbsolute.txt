@@ -1,0 +1,17 @@
+/Users/vcplmac9/VCPLHotspots/Hotspots.services/bin/Debug/net7.0/Hotspots.services.deps.json
+/Users/vcplmac9/VCPLHotspots/Hotspots.services/bin/Debug/net7.0/Hotspots.services.dll
+/Users/vcplmac9/VCPLHotspots/Hotspots.services/bin/Debug/net7.0/Hotspots.services.pdb
+/Users/vcplmac9/VCPLHotspots/Hotspots.services/bin/Debug/net7.0/Hotspots.data.dll
+/Users/vcplmac9/VCPLHotspots/Hotspots.services/bin/Debug/net7.0/Hotspots.models.dll
+/Users/vcplmac9/VCPLHotspots/Hotspots.services/bin/Debug/net7.0/Hotspots.models.pdb
+/Users/vcplmac9/VCPLHotspots/Hotspots.services/bin/Debug/net7.0/Hotspots.data.pdb
+/Users/vcplmac9/VCPLHotspots/Hotspots.services/obj/Debug/net7.0/Hotspots.services.csproj.AssemblyReference.cache
+/Users/vcplmac9/VCPLHotspots/Hotspots.services/obj/Debug/net7.0/Hotspots.services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vcplmac9/VCPLHotspots/Hotspots.services/obj/Debug/net7.0/Hotspots.services.AssemblyInfoInputs.cache
+/Users/vcplmac9/VCPLHotspots/Hotspots.services/obj/Debug/net7.0/Hotspots.services.AssemblyInfo.cs
+/Users/vcplmac9/VCPLHotspots/Hotspots.services/obj/Debug/net7.0/Hotspots.services.csproj.CoreCompileInputs.cache
+/Users/vcplmac9/VCPLHotspots/Hotspots.services/obj/Debug/net7.0/Hotspots.services.csproj.CopyComplete
+/Users/vcplmac9/VCPLHotspots/Hotspots.services/obj/Debug/net7.0/Hotspots.services.dll
+/Users/vcplmac9/VCPLHotspots/Hotspots.services/obj/Debug/net7.0/refint/Hotspots.services.dll
+/Users/vcplmac9/VCPLHotspots/Hotspots.services/obj/Debug/net7.0/Hotspots.services.pdb
+/Users/vcplmac9/VCPLHotspots/Hotspots.services/obj/Debug/net7.0/ref/Hotspots.services.dll
