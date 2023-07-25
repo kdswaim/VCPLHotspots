@@ -1,0 +1,5 @@
+/Users/vcplmac9/VCPLHotspots/Hotspots.data/obj/Debug/net7.0/Hotspots.data.csproj.AssemblyReference.cache
+/Users/vcplmac9/VCPLHotspots/Hotspots.data/obj/Debug/net7.0/Hotspots.data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vcplmac9/VCPLHotspots/Hotspots.data/obj/Debug/net7.0/Hotspots.data.AssemblyInfoInputs.cache
+/Users/vcplmac9/VCPLHotspots/Hotspots.data/obj/Debug/net7.0/Hotspots.data.AssemblyInfo.cs
+/Users/vcplmac9/VCPLHotspots/Hotspots.data/obj/Debug/net7.0/Hotspots.data.csproj.CoreCompileInputs.cache

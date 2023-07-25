@@ -1,8 +1,27 @@
 {
   "version": 2,
-  "dgSpecHash": "o+4vad1aAe9o0xedMvXb2akZy1m+XtRTb6RwMnw+vuKKLDxZKZOmTMR8HhcvRd+WWHSFdpx2zOnENEWZh1gNiQ==",
+  "dgSpecHash": "qBHKA3PlJ9ibnMn6OoT7/70lmvVy0iUN69WindY3X6I0Iko16WOjSx9ALqq9oQ9OekWwMAddXXUL3enatec5rA==",
   "success": true,
   "projectFilePath": "/Users/vcplmac9/VCPLHotspots/Hotspots.models/Hotspots.models.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/vcplmac9/.nuget/packages/microsoft.aspnetcore.cryptography.internal/7.0.5/microsoft.aspnetcore.cryptography.internal.7.0.5.nupkg.sha512",
+    "/Users/vcplmac9/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/7.0.5/microsoft.aspnetcore.cryptography.keyderivation.7.0.5.nupkg.sha512",
+    "/Users/vcplmac9/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/7.0.5/microsoft.aspnetcore.identity.entityframeworkcore.7.0.5.nupkg.sha512",
+    "/Users/vcplmac9/.nuget/packages/microsoft.entityframeworkcore/7.0.5/microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
+    "/Users/vcplmac9/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.5/microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",
+    "/Users/vcplmac9/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.5/microsoft.entityframeworkcore.analyzers.7.0.5.nupkg.sha512",
+    "/Users/vcplmac9/.nuget/packages/microsoft.entityframeworkcore.relational/7.0.5/microsoft.entityframeworkcore.relational.7.0.5.nupkg.sha512",
+    "/Users/vcplmac9/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/Users/vcplmac9/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/Users/vcplmac9/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/vcplmac9/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/vcplmac9/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/vcplmac9/.nuget/packages/microsoft.extensions.identity.core/7.0.5/microsoft.extensions.identity.core.7.0.5.nupkg.sha512",
+    "/Users/vcplmac9/.nuget/packages/microsoft.extensions.identity.stores/7.0.5/microsoft.extensions.identity.stores.7.0.5.nupkg.sha512",
+    "/Users/vcplmac9/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/vcplmac9/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/vcplmac9/.nuget/packages/microsoft.extensions.options/7.0.1/microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "/Users/vcplmac9/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
