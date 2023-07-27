@@ -13,6 +13,6 @@ namespace Hotspots.models.UserVM
         public string Email {get; set;}
         [Required]
         [StringLength(15, ErrorMessage = "The password has a limit of {2} to {1} characters", MinimumLength =6)]
-        public string Password {get; set;}
+        public string Password {get; set;} = null!;
     }
 }

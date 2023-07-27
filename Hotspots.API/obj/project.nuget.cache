@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9tobdDxFcic8o9e0sqvJE/qt5tzQxcHQ0eS80LfAqUqzZWdcUmqjjEDzdG0Zir+UHiGR8XVIUQb33BkG9I/p0A==",
+  "dgSpecHash": "Ty8C1h40jry/Ws19DRj0jIkGCLhQUh+3t8bMCZVVx/vFf1sGuOKz1k2r4UzCzAepXTFPhOzFzNHr1Gu+T6rU0w==",
   "success": true,
   "projectFilePath": "/Users/vcplmac9/VCPLHotspots/Hotspots.API/Hotspots.API.csproj",
   "expectedPackageFiles": [
@@ -9,8 +9,11 @@
     "/Users/vcplmac9/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/vcplmac9/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",
     "/Users/vcplmac9/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/Users/vcplmac9/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/7.0.5/microsoft.aspnetcore.authentication.jwtbearer.7.0.5.nupkg.sha512",
     "/Users/vcplmac9/.nuget/packages/microsoft.aspnetcore.cryptography.internal/7.0.5/microsoft.aspnetcore.cryptography.internal.7.0.5.nupkg.sha512",
     "/Users/vcplmac9/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/7.0.5/microsoft.aspnetcore.cryptography.keyderivation.7.0.5.nupkg.sha512",
+    "/Users/vcplmac9/.nuget/packages/microsoft.aspnetcore.http.abstractions/2.2.0/microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "/Users/vcplmac9/.nuget/packages/microsoft.aspnetcore.http.features/2.2.0/microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "/Users/vcplmac9/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/7.0.5/microsoft.aspnetcore.identity.entityframeworkcore.7.0.5.nupkg.sha512",
     "/Users/vcplmac9/.nuget/packages/microsoft.aspnetcore.openapi/7.0.5/microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "/Users/vcplmac9/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

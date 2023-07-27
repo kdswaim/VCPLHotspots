@@ -12,6 +12,6 @@ namespace Hotspots.services.HotspotServices
         Task<bool>UpdateHotspot(HotspotEditVM model);
         Task <bool> DeleteHotspot (int id);
         Task<HotspotListItem>GetHotspot(int id);
-        Task<List<HotspotListItem>> GetHotspots();
+        Task<List<HotspotListItem>> GetHotspots(int id);
     }
 }

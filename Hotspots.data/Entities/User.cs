@@ -21,5 +21,6 @@ namespace Hotspots.data.Entities
 
         [Required]
         public string Role {get; set;}
+        public string DateCreated {get; set;} = DateTime.Now.ToString("MM/dd/yyyy");
     }
 }

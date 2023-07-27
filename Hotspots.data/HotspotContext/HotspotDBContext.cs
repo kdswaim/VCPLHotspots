@@ -14,6 +14,6 @@ namespace Hotspots.data.HotspotContext
         
         public DbSet<Hotspot> Hotspots { get; set; }
 
-        public DbSet <TroubleshootingGuide> TroubleshootingGuide {get; set;}
+        public DbSet <TroubleshootingGuide> Guide {get; set;}
         }
     }
